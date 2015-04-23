@@ -272,10 +272,11 @@
 	<string name="gdocs_folder_not_configured">Please set the Google Drive backup folder on Preferences.</string>
 	<string name="gdocs_backup_failed">Error sending backup file to Google Drive. Please try again.</string>
 	<string name="gdocs_restore_failed">Error retrieving backup file. Please try again.</string>
-
+	<string name="gdocs_login_failed">Wrong Google account credentials.</string>
 	<string name="gdocs_folder_error">Error accessing the folder in Google Drive.</string>
 	<string name="gdocs_service_error">Unexpected error while working with Google Drive.</string>
 	<string name="gdocs_io_error">Error connecting with Google Drive.</string>
+	<string name="package_info_error">Unable to retrieve Financisto package info.</string>
 
 	<string name="success">Success!</string>
 	<string name="fail">Fail...</string>
